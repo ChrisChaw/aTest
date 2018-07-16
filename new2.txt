@@ -8,4 +8,6 @@ from django.shortcuts import render,HttpResponse
 
      def live(request):
         print('开发到一半')
-        return HttpResponse('....')     
+        return HttpResponse('....')   
+
+开发完成新功能  
