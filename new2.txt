@@ -12,3 +12,7 @@ from django.shortcuts import render,HttpResponse
 
      def new(request):
 	print('开发新的功能') 
+        return HttpResponse('OK')   
+
+开发完成新功能  
+
