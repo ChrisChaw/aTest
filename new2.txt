@@ -11,3 +11,7 @@ from django.shortcuts import render,HttpResponse
         return HttpResponse('....')   
 
 开发完成新功能  
+
+
+
+又开发了新功能
